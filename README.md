@@ -1,5 +1,10 @@
 # Kanban-Backend
 
+This is a backend of a kanban application that was created for a study for the subject "Team Project", which was conducted by Billenium. The task was to create an application that would make it possible, by designating and assigning tasks to different people, to optimize the work process.
+
+The backend of the application was created in Python using the Django framework.
+
+
 <b>W przypadku błędu:</b>
 <p><i>django.db.migrations.exceptions.MigrationSchemaMissing: 
 Unable to create the django_migrations table ((1064, "You have an error in your SQL syntax;
